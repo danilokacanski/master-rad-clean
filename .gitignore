@@ -2,3 +2,4 @@ gathering data MVP/.env
 .venv
 .venv1
 *.env
+*.session
